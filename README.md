@@ -35,7 +35,7 @@ FlClash 用户可以使用项目提供的[`FlClash.js`](./Clash/FlClash.js)，�
 
 **GitHub Raw：**
 ```text
-https://github.com/n0de-sudo/Perfect-Rules/blob/main/Clash/FlClash.js
+https://github.com/Elemt/Perfect-Rules/blob/main/Clash/FlClash.js
 ```
 
 
@@ -78,7 +78,7 @@ Clash Mi 支持多平台，并采用统一的配置逻辑。
 **GitHub Raw：**
 
 ```text
-https://raw.githubusercontent.com/n0de-sudo/Perfect-Rules/main/Clash/Clash_mi.js
+https://raw.githubusercontent.com/Elemt/Perfect-Rules/main/Clash/Clash_mi.js
 ```
 
 ⚠️ **重要：**
@@ -183,3 +183,5 @@ Perfect Rules 会持续维护。
 *Make complex routing simple.*
 
 **阿尔忒弥斯实验室 · Artemis Lab**
+
+原项目地址：[https://github.com/n0de-sudo/Perfect-Rules](https://github.com/n0de-sudo/Perfect-Rules)
